@@ -26,3 +26,8 @@ If the user guesses all of the letters of the word, the decrypter will be employ
 Please keep in mind that as the files were created in JupyterLab, individual cells are not affected by common commands like "quit" or "exit," and therefore implementation of try-catches to prevent TypeErrors based on user input could not be done. Please enter each letter individually (e.g., 'A', 'B', etc.) as opposed to phonetically or in any other form.
 
 If there are any unresolved issues with the program, please contact me at: aweng@terpmail.umd.edu
+
+## Sources
+
+Python documentation. Function. docs.python.org/3/library/random.html
+Python documentation. Function. https://docs.python.org/3.4/library/functions.html?highlight=ord
