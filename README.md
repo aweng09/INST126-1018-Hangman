@@ -13,7 +13,9 @@ Run the program (see "Installation" above).
 The interface of the program is as follows:
 
 **Current word: '_', '_', '_', '_'**
+
 **You have 10 lives and you have used these letters:**
+
 **Please enter a letter:**
 
 Every round of the program randomly selects an encrypted word form the bank. The "Current word" line will have as many _ (spaces) as the selected word has letters. 
